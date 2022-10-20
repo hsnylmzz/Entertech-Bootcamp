@@ -1,0 +1,28 @@
+C:\Users\hsnyl\Desktop\Backend Bootcamp\Entertech Bitirme Projesi\Entertech Bitirme Projesi\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\hsnyl\Desktop\Backend Bootcamp\Entertech Bitirme Projesi\Entertech Bitirme Projesi\bin\Debug\net6.0\appsettings.json
+C:\Users\hsnyl\Desktop\Backend Bootcamp\Entertech Bitirme Projesi\Entertech Bitirme Projesi\bin\Debug\net6.0\Entertech Bitirme Projesi.exe
+C:\Users\hsnyl\Desktop\Backend Bootcamp\Entertech Bitirme Projesi\Entertech Bitirme Projesi\bin\Debug\net6.0\Entertech Bitirme Projesi.deps.json
+C:\Users\hsnyl\Desktop\Backend Bootcamp\Entertech Bitirme Projesi\Entertech Bitirme Projesi\bin\Debug\net6.0\Entertech Bitirme Projesi.runtimeconfig.json
+C:\Users\hsnyl\Desktop\Backend Bootcamp\Entertech Bitirme Projesi\Entertech Bitirme Projesi\bin\Debug\net6.0\Entertech Bitirme Projesi.dll
+C:\Users\hsnyl\Desktop\Backend Bootcamp\Entertech Bitirme Projesi\Entertech Bitirme Projesi\bin\Debug\net6.0\Entertech Bitirme Projesi.pdb
+C:\Users\hsnyl\Desktop\Backend Bootcamp\Entertech Bitirme Projesi\Entertech Bitirme Projesi\bin\Debug\net6.0\Bogus.dll
+C:\Users\hsnyl\Desktop\Backend Bootcamp\Entertech Bitirme Projesi\Entertech Bitirme Projesi\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\hsnyl\Desktop\Backend Bootcamp\Entertech Bitirme Projesi\Entertech Bitirme Projesi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\hsnyl\Desktop\Backend Bootcamp\Entertech Bitirme Projesi\Entertech Bitirme Projesi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\hsnyl\Desktop\Backend Bootcamp\Entertech Bitirme Projesi\Entertech Bitirme Projesi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\hsnyl\Desktop\Backend Bootcamp\Entertech Bitirme Projesi\Entertech Bitirme Projesi\obj\Debug\net6.0\Entertech Bitirme Projesi.csproj.AssemblyReference.cache
+C:\Users\hsnyl\Desktop\Backend Bootcamp\Entertech Bitirme Projesi\Entertech Bitirme Projesi\obj\Debug\net6.0\Entertech Bitirme Projesi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hsnyl\Desktop\Backend Bootcamp\Entertech Bitirme Projesi\Entertech Bitirme Projesi\obj\Debug\net6.0\Entertech Bitirme Projesi.AssemblyInfoInputs.cache
+C:\Users\hsnyl\Desktop\Backend Bootcamp\Entertech Bitirme Projesi\Entertech Bitirme Projesi\obj\Debug\net6.0\Entertech Bitirme Projesi.AssemblyInfo.cs
+C:\Users\hsnyl\Desktop\Backend Bootcamp\Entertech Bitirme Projesi\Entertech Bitirme Projesi\obj\Debug\net6.0\Entertech Bitirme Projesi.csproj.CoreCompileInputs.cache
+C:\Users\hsnyl\Desktop\Backend Bootcamp\Entertech Bitirme Projesi\Entertech Bitirme Projesi\obj\Debug\net6.0\Entertech Bitirme Projesi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\hsnyl\Desktop\Backend Bootcamp\Entertech Bitirme Projesi\Entertech Bitirme Projesi\obj\Debug\net6.0\Entertech Bitirme Projesi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\hsnyl\Desktop\Backend Bootcamp\Entertech Bitirme Projesi\Entertech Bitirme Projesi\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\hsnyl\Desktop\Backend Bootcamp\Entertech Bitirme Projesi\Entertech Bitirme Projesi\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\hsnyl\Desktop\Backend Bootcamp\Entertech Bitirme Projesi\Entertech Bitirme Projesi\obj\Debug\net6.0\scopedcss\bundle\Entertech Bitirme Projesi.styles.css
+C:\Users\hsnyl\Desktop\Backend Bootcamp\Entertech Bitirme Projesi\Entertech Bitirme Projesi\obj\Debug\net6.0\Entertech Bitirme Projesi.csproj.CopyComplete
+C:\Users\hsnyl\Desktop\Backend Bootcamp\Entertech Bitirme Projesi\Entertech Bitirme Projesi\obj\Debug\net6.0\Entertech Bitirme Projesi.dll
+C:\Users\hsnyl\Desktop\Backend Bootcamp\Entertech Bitirme Projesi\Entertech Bitirme Projesi\obj\Debug\net6.0\refint\Entertech Bitirme Projesi.dll
+C:\Users\hsnyl\Desktop\Backend Bootcamp\Entertech Bitirme Projesi\Entertech Bitirme Projesi\obj\Debug\net6.0\Entertech Bitirme Projesi.pdb
+C:\Users\hsnyl\Desktop\Backend Bootcamp\Entertech Bitirme Projesi\Entertech Bitirme Projesi\obj\Debug\net6.0\Entertech Bitirme Projesi.genruntimeconfig.cache
+C:\Users\hsnyl\Desktop\Backend Bootcamp\Entertech Bitirme Projesi\Entertech Bitirme Projesi\obj\Debug\net6.0\ref\Entertech Bitirme Projesi.dll
